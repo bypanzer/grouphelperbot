@@ -1,5 +1,5 @@
 class Bot:
-    token = '123456789:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    token = '1968871260:AAEdzLcWR68ntYwWS-CZWXSXQ2tdLkDpOcQ'
     groupId = -1001234567890
     useStaffGroup = True
     staffGroupId = -1001234567890
@@ -12,7 +12,7 @@ class Databases:
 
 
 class Messages:
-    welcome = "Hi, <b>{{name}}</b>!\nWelcome in the {{group_name}} group!"
+    welcome = "Salam, <b>{{name}}</b>!\n {{group_name}} a Xoş gəldin!"
     rules = ""
 
 
